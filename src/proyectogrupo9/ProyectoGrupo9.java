@@ -14,6 +14,7 @@ public class ProyectoGrupo9 {
     public static void main(String[] args) {
         System.out.println("Ariel");
         System.out.println("Nahuel");
+        System.out.println("Vero");
     }
     
 }
